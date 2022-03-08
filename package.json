@@ -60,7 +60,7 @@
     "@types/request": "^2.48.4",
     "@types/underscore": "^1.9.4",
     "@types/uuid": "^3.4.7",
-    "axios": "^0.26.0",
+    "axios": "0.21.1",
     "crypto": "^1.0.1",
     "dcent-web-connector": "^0.10.1",
     "dns": "^0.2.2",
